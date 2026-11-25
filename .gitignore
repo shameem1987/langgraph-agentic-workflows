@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.healer/
+.env
+*.log
+.DS_Store
+bin/
+obj/
